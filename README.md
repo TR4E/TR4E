@@ -49,7 +49,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 
 ## 📌 Featured Projects
 
-### 🔹 [**Core Plugin**] *(Private)*
+### 🔹 [**Core Plugin**](https://github.com/TR4E/ClansAU-Core) *(Private)*
 A **foundational Minecraft plugin** that provides essential utilities and frameworks for other plugins.
 - General utilities for players, worlds, and server management
 - Modular event, task scheduling, and dependency injection systems
