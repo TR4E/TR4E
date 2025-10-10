@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I’m **Trae**
 
-<!--
-**TR4E/TR4E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 🔒 Cyber Security Enthusiast | 🛠️ Plugin & Framework Developer
 
-Here are some ideas to get you started:
+I specialize in cybersecurity, advanced software development, and building high-performance projects. My work centers on designing scalable frameworks, developer-friendly APIs, and secure, optimized systems that deliver both innovation and reliability.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🛡️ Highly interested in Cyber Security, with a focus on OSINT, Penetration Testing, and Software Engineering
+- ⚡ Strong background in **Java**, **Python**, **C/C++/C#**, and **JavaScript**
+- 🔐 Skilled in **information security, reverse engineering, cryptography, and network security**
+- 🖥️ Developer of advanced **Minecraft plugins** such as Core, Clans, and Champions
+- ☁️ Experienced with **Linux system administration, Redis/Mongo/MySQL, and scalable infrastructures**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- **Java (Advanced)** • **Python (Intermediate–Advanced)**
+- **C, C++, C# (Beginner–Intermediate)**
+- **JavaScript (Intermediate)** • **HTML, CSS, XML**
+- **Bash/PowerShell scripting**
+
+### 🔒 Technology
+- Information Security
+- Network Security
+- Data Security
+- Ethical Hacking
+- Reverse Engineering
+- Cryptography
+- Linux Administration
+- Advanced in Information Technology
+
+### 🗄️ Databases
+- MongoDB
+- Redis
+- MySQL
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [**Core Plugin**](#) *(Private)*
+A **foundational Minecraft plugin** that provides essential utilities and frameworks for other plugins.
+- General utilities for players, worlds, and server management
+- Modular event, task scheduling, and dependency injection systems
+- Centralized managers for players, configs, and world handling
+- APIs for developers to extend and build on Core
+
+---
+
+### 🔹 [**Clans Plugin**](https://github.com/TR4E/ClansAU-Clans)
+A **competitive clan/faction system** for Minecraft servers.
+- Form clans, claim territory, build alliances, and wage wars
+- Unique mechanics: **Dominance/Pillaging**, **KoTH**, **supply crates**, **quests**
+- Farming, fishing, loot boxes, and custom TNT mechanics
+- Seamless integration with Champions for role/skill-based combat
+
+---
+
+### 🔹 [**Champions Plugin**](https://github.com/TR4E/ClansAU-Champions)
+An **RPG combat system** with roles, skills, and custom items.
+- Classes: Assassin, Brute, Knight, Mage, Ranger
+- Custom abilities with energy management & skill builds
+- Unique items like Gravity Bombs, Booster Weapons, Grenades, Web traps
+- Extensible API for developers to create new skills/items
+
+---
+
+## 🔒 Other Work
+- Advanced trading signals & algorithmic frameworks (Discord + TradingView integration)
+- Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
+
+---
+
+## 📫 Connect with Me
+- 💬 Discord: [View Profile](https://discord.com/users/454242724141596672)
+
