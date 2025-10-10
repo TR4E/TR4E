@@ -43,7 +43,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 ### 🗄️ Databases
 - MongoDB
 - Redis
-- MySQL
+- SQL
 
 <br>
 
