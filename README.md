@@ -6,9 +6,9 @@
 I specialize in cybersecurity, advanced software development, and building high-performance projects. My work centers on designing scalable frameworks, developer-friendly APIs, and secure, optimized systems that deliver both innovation and reliability.
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ## 🧑‍💻 About Me
@@ -19,9 +19,9 @@ I specialize in cybersecurity, advanced software development, and building high-
 - ☁️ Experienced with **Linux system administration, Redis/Mongo/MySQL, and scalable infrastructures**
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ## 🛠️ Technical Skills
@@ -48,9 +48,9 @@ I specialize in cybersecurity, advanced software development, and building high-
 - MySQL
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ## 📌 Featured Projects
@@ -63,9 +63,9 @@ A **foundational Minecraft plugin** that provides essential utilities and framew
 - APIs for developers to extend and build on Core
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ### 🔹 [**Clans Plugin**](https://github.com/TR4E/ClansAU-Clans)
@@ -76,9 +76,9 @@ A **competitive clan/faction system** for Minecraft servers.
 - Seamless integration with Champions for role/skill-based combat
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ### 🔹 [**Champions Plugin**](https://github.com/TR4E/ClansAU-Champions)
@@ -89,9 +89,9 @@ An **RPG combat system** with roles, skills, and custom items.
 - Extensible API for developers to create new skills/items
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ## 🔒 Other Work
@@ -99,9 +99,9 @@ An **RPG combat system** with roles, skills, and custom items.
 - Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
 
 <br>
-<br>
+
 ---
-<br>
+
 <br>
 
 ## 📫 Connect with Me
