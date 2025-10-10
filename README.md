@@ -1,9 +1,15 @@
 # 👋 Hi, I’m **Trae**
+<br>
 
 🚀 Software Engineer | 🔒 Cyber Security Enthusiast | 🛠️ Plugin & Framework Developer
 
 I specialize in cybersecurity, advanced software development, and building high-performance projects. My work centers on designing scalable frameworks, developer-friendly APIs, and secure, optimized systems that deliver both innovation and reliability.
+
+<br>
+<br>
 ---
+<br>
+<br>
 
 ## 🧑‍💻 About Me
 - 🛡️ Highly interested in Cyber Security, with a focus on OSINT, Penetration Testing, and Software Engineering
@@ -12,7 +18,11 @@ I specialize in cybersecurity, advanced software development, and building high-
 - 🖥️ Developer of advanced **Minecraft plugins** such as Core, Clans, and Champions
 - ☁️ Experienced with **Linux system administration, Redis/Mongo/MySQL, and scalable infrastructures**
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ## 🛠️ Technical Skills
 
@@ -37,7 +47,11 @@ I specialize in cybersecurity, advanced software development, and building high-
 - Redis
 - MySQL
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ## 📌 Featured Projects
 
@@ -48,7 +62,11 @@ A **foundational Minecraft plugin** that provides essential utilities and framew
 - Centralized managers for players, configs, and world handling
 - APIs for developers to extend and build on Core
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ### 🔹 [**Clans Plugin**](https://github.com/TR4E/ClansAU-Clans)
 A **competitive clan/faction system** for Minecraft servers.
@@ -57,7 +75,11 @@ A **competitive clan/faction system** for Minecraft servers.
 - Farming, fishing, loot boxes, and custom TNT mechanics
 - Seamless integration with Champions for role/skill-based combat
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ### 🔹 [**Champions Plugin**](https://github.com/TR4E/ClansAU-Champions)
 An **RPG combat system** with roles, skills, and custom items.
@@ -66,13 +88,21 @@ An **RPG combat system** with roles, skills, and custom items.
 - Unique items like Gravity Bombs, Booster Weapons, Grenades, Web traps
 - Extensible API for developers to create new skills/items
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ## 🔒 Other Work
 - Advanced trading signals & algorithmic frameworks (Discord + TradingView integration)
 - Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
 
+<br>
+<br>
 ---
+<br>
+<br>
 
 ## 📫 Connect with Me
 - 💬 Discord: [View Profile](https://discord.com/users/454242724141596672)
