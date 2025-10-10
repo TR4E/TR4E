@@ -5,10 +5,7 @@
 
 I specialize in cybersecurity, advanced software development, and building high-performance projects. My work centers on designing scalable frameworks, developer-friendly APIs, and secure, optimized systems that deliver both innovation and reliability.
 
-<br>
-
 ---
-
 <br>
 
 ## 🧑‍💻 About Me
@@ -18,10 +15,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 - 🖥️ Developer of advanced **Minecraft plugins** such as Core, Clans, and Champions
 - ☁️ Experienced with **Linux system administration, Redis/Mongo/MySQL, and scalable infrastructures**
 
-<br>
-
 ---
-
 <br>
 
 ## 🛠️ Technical Skills
@@ -47,10 +41,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 - Redis
 - MySQL
 
-<br>
-
 ---
-
 <br>
 
 ## 📌 Featured Projects
@@ -81,13 +72,13 @@ An **RPG combat system** with roles, skills, and custom items.
 - Extensible API for developers to create new skills/items
 
 ---
+<br>
 
 ## 🔒 Other Work
 - Advanced trading signals & algorithmic frameworks (Discord + TradingView integration)
 - Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
 
 ---
-
 <br>
 
 ## 📫 Connect with Me
