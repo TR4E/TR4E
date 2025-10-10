@@ -62,11 +62,7 @@ A **foundational Minecraft plugin** that provides essential utilities and framew
 - Centralized managers for players, configs, and world handling
 - APIs for developers to extend and build on Core
 
-<br>
-
 ---
-
-<br>
 
 ### 🔹 [**Clans Plugin**](https://github.com/TR4E/ClansAU-Clans)
 A **competitive clan/faction system** for Minecraft servers.
@@ -75,11 +71,7 @@ A **competitive clan/faction system** for Minecraft servers.
 - Farming, fishing, loot boxes, and custom TNT mechanics
 - Seamless integration with Champions for role/skill-based combat
 
-<br>
-
 ---
-
-<br>
 
 ### 🔹 [**Champions Plugin**](https://github.com/TR4E/ClansAU-Champions)
 An **RPG combat system** with roles, skills, and custom items.
@@ -88,17 +80,11 @@ An **RPG combat system** with roles, skills, and custom items.
 - Unique items like Gravity Bombs, Booster Weapons, Grenades, Web traps
 - Extensible API for developers to create new skills/items
 
-<br>
-
 ---
-
-<br>
 
 ## 🔒 Other Work
 - Advanced trading signals & algorithmic frameworks (Discord + TradingView integration)
 - Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
-
-<br>
 
 ---
 
