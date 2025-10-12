@@ -14,7 +14,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 - ⚡ Strong background in **Java**, **Python**, **C/C++/C#**, and **JavaScript**
 - 🔐 Skilled in **information security, reverse engineering, cryptography, and network security**
 - 🖥️ Developer of advanced **Minecraft plugins** such as Core, Clans, and Champions
-- ☁️ Experienced with **Linux system administration, Redis/Mongo/MySQL, and scalable infrastructures**
+- ☁️ Experienced with **Linux system administration, Redis/Mongo/SQL, and scalable infrastructures**
 
 <br>
 
