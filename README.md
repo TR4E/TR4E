@@ -23,12 +23,12 @@ I specialize in cybersecurity, advanced software development, and building high-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-- **Java (Advanced)**
-- **Python (Intermediate–Advanced)**
-- **C, C++, C# (Beginner–Intermediate)**
-- **JavaScript (Intermediate)**
-- **HTML, CSS, XML**
-- **Bash/PowerShell scripting**
+- Java (Advanced)
+- Python (Intermediate–Advanced)
+- C, C++, C# (Beginner–Intermediate)
+- JavaScript (Intermediate)
+- HTML, CSS, XML
+- Bash/PowerShell scripting
 
 ### 🔒 Technology
 - Information Security
@@ -39,6 +39,12 @@ I specialize in cybersecurity, advanced software development, and building high-
 - Cryptography
 - Linux Administration
 - Advanced in Information Technology
+
+### 🔨 Frameworks
+- Java: FX, SpringBoot, Guice, Spark
+- Python: Flash, Django
+- NodeJS: Express
+- Custom (Self-made)
 
 ### 🗄️ Databases
 - MongoDB
