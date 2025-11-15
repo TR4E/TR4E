@@ -37,6 +37,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 - Ethical Hacking
 - Reverse Engineering
 - Cryptography
+- CloudFlare
 - Linux Administration
 - Advanced in Information Technology
 
