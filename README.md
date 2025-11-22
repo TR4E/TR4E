@@ -42,7 +42,7 @@ I specialize in cybersecurity, advanced software development, and building high-
 - Advanced in Information Technology
 
 ### 🔨 Frameworks
-- Java: FX, SpringBoot, Guice, Spark
+- Java: Spring, Spring Boot, Guice, Spark, FX
 - Python: Flash, Django
 - NodeJS: Express
 - Custom (Self-made)
