@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=TR4E)
+
 # 👋 Hi, I’m **Trae**
 <br>
 
