@@ -89,7 +89,7 @@ An **RPG combat system** with roles, skills, and custom items.
 
 ## 🔒 Other Work
 - Advanced trading signals & algorithmic frameworks (Discord + TradingView integration)
-- Projects I use myself [Trae-Maven](https://github.com/Trae-Maven)
+- Projects I use myself [Foundation](https://github.com/TR4E/Foundation)
 - Other **cybersecurity-focused projects** (penetration testing tools, OSINT utilities, automation scripts)
 
 <br>
