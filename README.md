@@ -50,6 +50,7 @@ Built with **modularity, extensibility, and reliability** in mind, Foundation pr
 | Module | Description |
 | --- | --- |
 | 🗄️ **Database** | PostgreSQL persistence, Redis integration, multi-layer caching, schema management, entity repositories, batched writes, and distributed cache synchronization. |
+| 💬 **Discord** | Lightweight webhook messaging with embed support, and a bot framework for Discord application development. |
 | 💉 **Injector** | Lightweight dependency injection with automatic component discovery, constructor injection, lifecycle management, and extensible component resolution. |
 | 🎮 **Minecraft** | Reusable Paper and Velocity frameworks with plugin lifecycle management, developer APIs, and optional gameplay components. |
 | 🍃 **Spring** | Spring Boot components for request rate limiting, HTTP security, page routing, caching, and web application infrastructure. |
@@ -64,10 +65,11 @@ Built with **modularity, extensibility, and reliability** in mind, Foundation pr
 - 🛡️ **Application Security** — Reusable Spring Boot security and configurable rate limiting.
 - 🧩 **Modular Architecture** — Independent Maven modules with well-defined APIs and responsibilities.
 - 🎮 **Platform Integration** — Extensible frameworks supporting Paper and Velocity applications.
+- 💬 **Discord Integration** — Webhook messaging with embeds, and a framework for building Discord bots.
 
 **🛠️ Technology Stack**
 
-`Java 25` · `Maven` · `PostgreSQL` · `Redis` · `Spring Boot` · `Paper` · `Velocity`
+`Java 25` · `Maven` · `PostgreSQL` · `Redis` · `Spring Boot` · `Paper` · `Velocity` · `Discord`
 
 ---
 
